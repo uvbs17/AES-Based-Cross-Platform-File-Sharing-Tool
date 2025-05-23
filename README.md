@@ -17,7 +17,7 @@ A cross-platform secure file sharing application using Python, enabling encrypte
 
 ## Screenshot
 
-![MainUI](/assets/Main%20UI%20secure%20tool.png)
+![MainUI](./assests/Main_UI_secure_tool.png)
 
 ---
 
